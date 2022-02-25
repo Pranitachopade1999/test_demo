@@ -1,0 +1,9 @@
+my:
+ greeting: hello world
+ list:
+    value: one,two,three
+    
+db:
+ hostname: localhost
+ port: 8080
+ url: https://localhost:8080
